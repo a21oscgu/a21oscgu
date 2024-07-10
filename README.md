@@ -1,6 +1,6 @@
 ## Hi there 👋
-- 🔭 I'm working on some prototype websites.
-- 🌱 I’m currently learning more about different frameworks.
+- 🔭 I'm working on some prototype websites (with my main account).
+- 🌱 I’m currently learning more about different frameworks (with my main account).
 
 Here's my statistics (for this account):
 
