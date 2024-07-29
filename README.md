@@ -22,4 +22,4 @@ Here's my statistics (for this account):
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=a21oscgu)](https://github.com/a21oscgu)
 
-Take a look at my second account: [janoscarfilip](https://github.com/janoscarfilip)
+Take a look at my main account: [janoscarfilip](https://github.com/janoscarfilip)
