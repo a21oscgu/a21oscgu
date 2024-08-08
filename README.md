@@ -2,7 +2,7 @@
 
 I’m nearing the completion of my Bachelor of Science degree, specializing in Web Development. 🎓
 
-Currently, I'm actively developing prototype websites (on my main account: [janoscarfilip](https://github.com/janoscarfilip)). 🔭
+Currently, I'm actively developing different websites (on my main account: [janoscarfilip](https://github.com/janoscarfilip)). 🔭
 
 I am passionate about expanding my knowledge and expertise in various frameworks and technologies (including programming languages and Discord bots). 🌱
 
