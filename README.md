@@ -5,8 +5,6 @@ Check out my degree project:\
 
 Here's my statistics for this account (only public repositories):
 
-[a21oscgu](https://github.com/a21oscgu):
-
 <a href="https://github.com/janoscarfilip" align="center">
   <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a21oscgu&theme=holi&count_private=true&langs_count=20" alt="Oscar's most used languages"/>
 </a>
